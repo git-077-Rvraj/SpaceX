@@ -78,6 +78,7 @@ class App extends Component {
       return (
         <div className="App">
           <h1 className="App-header">SpaceX Launch Programs</h1>
+          <div className="mob">
           <Container fluid>
             <Row>
               <Col xs={12} sm={12} md={6} lg={3}>
@@ -218,6 +219,7 @@ class App extends Component {
               </h5>
             </div>
           </Container>
+          </div>
         </div>
       );
     }
