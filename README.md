@@ -16,18 +16,21 @@ SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-la
 
 >Filters and Launch Items details cards having Spacex launch details fetched from API
 
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1270__MvCD0C3w26.png)
+![Alt text](![Screenshot (162)](https://user-images.githubusercontent.com/85907043/124097115-df2b0000-da78-11eb-898e-507bf371a417.png)
+)
 
 > After Applying Launch Year Filter
 
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1271__wwcOOWXWmR.png)
+![Alt text](![Screenshot (163)](https://user-images.githubusercontent.com/85907043/124097387-287b4f80-da79-11eb-8f57-51bf3774fd3c.png)
+)
 
 > After Applying Successful Launch Filter
 
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1272__IQT1rCmyt.png)
+![Alt text]() ek kaam krte h
 
 > After Applying Launch Year, Successful Launch and Landing Success Filter
 
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1273__OetAvBQCL.png)
+![Alt text](![Screenshot (160)](https://user-images.githubusercontent.com/85907043/124096481-409e9f00-da78-11eb-8fd4-eddad383628c.png)
+)
 
-Developed By [Jasvinder Singh Sabharwal](https://github.com/jvsinghk), [Jennifer B](https://github.com/jenndroid)
+Developed By [Ravi Raj](https://github.com/git-077-Rvraj/SpaceX/)
